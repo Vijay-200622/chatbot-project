@@ -1,0 +1,403 @@
+{
+  "topics": [
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Matter in Our Surroundings",
+      "topic": "States of Matter",
+      "keywords": "solid,liquid,gas,matter,states,particles,evaporation,condensation,sublimation,boiling,melting"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Is Matter Around Us Pure",
+      "topic": "Mixtures and Solutions",
+      "keywords": "mixture,solution,compound,element,pure,impure,homogeneous,heterogeneous,colloid,suspension,separation,filtration,distillation,chromatography"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Atoms and Molecules",
+      "topic": "Atoms and Molecules",
+      "keywords": "atom,molecule,element,compound,atomic mass,molecular mass,mole,avogadro,valency,chemical formula,ion"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Structure of the Atom",
+      "topic": "Atomic Structure",
+      "keywords": "atom,electron,proton,neutron,nucleus,shell,orbit,bohr,thomson,rutherford,atomic number,mass number,isotope,isobar,valence"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "The Fundamental Unit of Life",
+      "topic": "Cell Biology",
+      "keywords": "cell,membrane,nucleus,cytoplasm,organelle,mitochondria,ribosome,endoplasmic reticulum,golgi,vacuole,chloroplast,prokaryotic,eukaryotic,plant cell,animal cell"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Tissues",
+      "topic": "Tissues",
+      "keywords": "tissue,epithelial,connective,muscular,nervous,meristematic,permanent,xylem,phloem,parenchyma,collenchyma,sclerenchyma"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Motion",
+      "topic": "Motion and Kinematics",
+      "keywords": "motion,speed,velocity,acceleration,distance,displacement,uniform,non-uniform,graph,equation,rest,scalar,vector"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Force and Laws of Motion",
+      "topic": "Newton's Laws",
+      "keywords": "force,newton,law,inertia,momentum,action,reaction,friction,mass,acceleration,F=ma,balanced,unbalanced"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Gravitation",
+      "topic": "Gravitation",
+      "keywords": "gravity,gravitation,gravitational,weight,mass,free fall,acceleration due to gravity,g,universal law,kepler,thrust,pressure,buoyancy,archimedes,float,sink,density,relative density"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Work and Energy",
+      "topic": "Work and Energy",
+      "keywords": "work,energy,kinetic,potential,power,joule,watt,conservation,transformation,mechanical"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Sound",
+      "topic": "Sound",
+      "keywords": "sound,wave,frequency,amplitude,wavelength,vibration,echo,resonance,ultrasound,sonic,medium,longitudinal,compression,rarefaction,pitch,loudness,hertz"
+    },
+    {
+      "class_level": 9,
+      "subject": "Science",
+      "chapter": "Improvement in Food Resources",
+      "topic": "Food Resources",
+      "keywords": "crop,agriculture,farming,manure,fertilizer,irrigation,hybridization,cattle,poultry,fish,bee keeping,animal husbandry,kharif,rabi,green revolution"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Number Systems",
+      "topic": "Number Systems",
+      "keywords": "number,rational,irrational,real,natural,whole,integer,decimal,fraction,number line,square root,cube root,pi,surds,rationalisation"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "topic": "Polynomials",
+      "keywords": "polynomial,degree,coefficient,monomial,binomial,trinomial,zero,root,factor,remainder theorem,factor theorem,algebraic identity,expansion"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Coordinate Geometry",
+      "keywords": "coordinate,cartesian,x-axis,y-axis,origin,quadrant,abscissa,ordinate,point,plane,plot,graph"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Linear Equations in Two Variables",
+      "topic": "Linear Equations",
+      "keywords": "linear,equation,variable,graph,solution,ax+by=c,slope,intercept,pair,simultaneous"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Triangles",
+      "topic": "Triangles",
+      "keywords": "triangle,congruence,congruent,SSS,SAS,ASA,AAS,RHS,angle,side,inequality,isosceles,equilateral,scalene,right"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Quadrilaterals",
+      "topic": "Quadrilaterals",
+      "keywords": "quadrilateral,parallelogram,rectangle,rhombus,square,trapezium,diagonal,angle sum,mid-point theorem"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "topic": "Circles",
+      "keywords": "circle,radius,diameter,chord,arc,sector,segment,tangent,secant,angle subtended,cyclic quadrilateral"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Heron's Formula",
+      "topic": "Heron's Formula",
+      "keywords": "heron,area,triangle,semi-perimeter,formula,scalene"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Surface Areas and Volumes",
+      "topic": "Surface Areas and Volumes",
+      "keywords": "surface area,volume,cube,cuboid,cylinder,cone,sphere,hemisphere,curved surface,lateral surface,total surface"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "topic": "Statistics",
+      "keywords": "statistics,data,mean,median,mode,frequency,class interval,histogram,bar graph,frequency polygon,central tendency"
+    },
+    {
+      "class_level": 9,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "topic": "Probability",
+      "keywords": "probability,event,experiment,trial,outcome,random,empirical,sample space,favourable"
+    },
+    {
+      "class_level": 9,
+      "subject": "Social Science",
+      "chapter": "The French Revolution",
+      "topic": "French Revolution",
+      "keywords": "french revolution,france,bastille,louis,napoleon,republic,democracy,rights,liberty,equality,fraternity,jacobin,estate"
+    },
+    {
+      "class_level": 9,
+      "subject": "Social Science",
+      "chapter": "India - Size and Location",
+      "topic": "India Geography Basics",
+      "keywords": "india,location,latitude,longitude,tropic of cancer,standard meridian,neighbour,size,area,state,union territory"
+    },
+    {
+      "class_level": 9,
+      "subject": "Social Science",
+      "chapter": "What is Democracy",
+      "topic": "Democracy",
+      "keywords": "democracy,democratic,election,vote,citizen,government,republic,autocracy,dictatorship,features of democracy"
+    },
+    {
+      "class_level": 9,
+      "subject": "Social Science",
+      "chapter": "The Story of Village Palampur",
+      "topic": "Village Economy",
+      "keywords": "village,palampur,economy,farming,land,labour,capital,production,factors of production,green revolution"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Chemical Reactions and Equations",
+      "topic": "Chemical Reactions",
+      "keywords": "chemical reaction,equation,balanced,reactant,product,decomposition,combination,displacement,double displacement,oxidation,reduction,redox,exothermic,endothermic,precipitation,neutralisation"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "topic": "Acids, Bases, Salts",
+      "keywords": "acid,base,salt,pH,indicator,litmus,neutral,strong acid,weak acid,hydrochloric,sulphuric,nitric,sodium hydroxide,baking soda,washing soda,plaster of paris,bleaching powder"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Metals and Non-metals",
+      "topic": "Metals and Non-metals",
+      "keywords": "metal,non-metal,metalloid,physical properties,chemical properties,reactivity series,corrosion,rusting,alloy,ionic bond,covalent,electronegativity,malleability,ductility,sonorous"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Carbon and its Compounds",
+      "topic": "Carbon Compounds",
+      "keywords": "carbon,organic,covalent bond,hydrocarbon,methane,ethanol,ethanoic acid,saturated,unsaturated,functional group,homologous series,alkane,alkene,alkyne,isomer"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Life Processes",
+      "topic": "Life Processes",
+      "keywords": "nutrition,respiration,transportation,excretion,photosynthesis,digestion,autotrophic,heterotrophic,aerobic,anaerobic,heart,blood,lungs,kidney,stomata"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Control and Coordination",
+      "topic": "Control and Coordination",
+      "keywords": "nervous system,brain,spinal cord,neuron,reflex,hormone,endocrine,pituitary,thyroid,adrenaline,insulin,plant hormone,auxin,tropism,stimulus,response"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "How do Organisms Reproduce",
+      "topic": "Reproduction",
+      "keywords": "reproduction,asexual,sexual,binary fission,budding,fragmentation,regeneration,spore,vegetative propagation,flower,pollination,fertilisation,seed,fruit,puberty,reproductive system"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Heredity and Evolution",
+      "topic": "Heredity and Evolution",
+      "keywords": "heredity,gene,DNA,chromosome,trait,dominant,recessive,mendel,evolution,variation,natural selection,speciation,fossil,homologous,analogous"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Light Reflection and Refraction",
+      "topic": "Light - Reflection and Refraction",
+      "keywords": "light,reflection,refraction,mirror,lens,concave,convex,focal length,image,real,virtual,magnification,snell law,refractive index,prism,dispersion,rainbow"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Human Eye and Colourful World",
+      "topic": "Human Eye",
+      "keywords": "eye,cornea,iris,pupil,retina,lens,accommodation,myopia,hypermetropia,presbyopia,cataract,dispersion,scattering,tyndall,rainbow,atmospheric refraction"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Electricity",
+      "topic": "Electricity",
+      "keywords": "electricity,current,voltage,resistance,ohm,circuit,series,parallel,power,energy,watt,kilowatt,fuse,ammeter,voltmeter,resistivity,potential difference,ohm's law"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Magnetic Effects of Electric Current",
+      "topic": "Magnetism and Electromagnetism",
+      "keywords": "magnet,magnetic field,compass,solenoid,electromagnet,electric motor,generator,electromagnetic induction,fleming,AC,DC,transformer,domestic circuit"
+    },
+    {
+      "class_level": 10,
+      "subject": "Science",
+      "chapter": "Our Environment",
+      "topic": "Environment and Ecosystem",
+      "keywords": "environment,ecosystem,food chain,food web,trophic level,producer,consumer,decomposer,biodegradable,non-biodegradable,ozone,pollution"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "topic": "Real Numbers",
+      "keywords": "real number,euclid,division,lemma,fundamental theorem,arithmetic,HCF,LCM,prime,composite,rational,irrational,decimal expansion"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "topic": "Polynomials (Class 10)",
+      "keywords": "polynomial,zero,coefficient,quadratic,cubic,relationship,sum of zeroes,product of zeroes,division algorithm"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "topic": "Pair of Linear Equations",
+      "keywords": "linear equation,pair,graphical,algebraic,substitution,elimination,cross multiplication,consistent,inconsistent,dependent"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "topic": "Quadratic Equations",
+      "keywords": "quadratic,equation,root,discriminant,formula,factorisation,completing square,nature of roots,b²-4ac"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Arithmetic Progressions",
+      "topic": "Arithmetic Progressions",
+      "keywords": "AP,arithmetic progression,common difference,nth term,sum,series,first term,last term,sequence"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Triangles",
+      "topic": "Similar Triangles",
+      "keywords": "similar,triangle,similarity,AA,SSS,SAS,BPT,basic proportionality,thales,pythagoras,ratio,corresponding"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometry",
+      "keywords": "trigonometry,sin,cos,tan,cosec,sec,cot,angle,ratio,identity,complementary,trigonometric ratio,height,distance,elevation,depression"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "topic": "Circles (Class 10)",
+      "keywords": "circle,tangent,secant,theorem,point of contact,length of tangent,tangent from external point"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Areas Related to Circles",
+      "topic": "Areas Related to Circles",
+      "keywords": "area,circle,sector,segment,arc length,perimeter,quadrant,minor,major"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Surface Areas and Volumes",
+      "topic": "Surface Areas and Volumes (Class 10)",
+      "keywords": "surface area,volume,combination,frustum,cone,cylinder,sphere,hemisphere,cube,cuboid,conversion"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "topic": "Statistics (Class 10)",
+      "keywords": "mean,median,mode,grouped data,ungrouped,frequency,cumulative frequency,ogive,class interval,central tendency"
+    },
+    {
+      "class_level": 10,
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "topic": "Probability (Class 10)",
+      "keywords": "probability,theoretical,complementary,event,impossible,certain,equally likely,random experiment,sample space,cards,dice,coin"
+    },
+    {
+      "class_level": 10,
+      "subject": "Social Science",
+      "chapter": "The Rise of Nationalism in Europe",
+      "topic": "Nationalism in Europe",
+      "keywords": "nationalism,europe,nation state,french revolution,napoleon,unification,germany,italy,romanticism,imperialism"
+    },
+    {
+      "class_level": 10,
+      "subject": "Social Science",
+      "chapter": "Nationalism in India",
+      "topic": "Indian National Movement",
+      "keywords": "nationalism,india,gandhi,non-cooperation,civil disobedience,salt march,quit india,congress,khilafat,rowlatt,jallianwala,swaraj,boycott"
+    },
+    {
+      "class_level": 10,
+      "subject": "Social Science",
+      "chapter": "Resources and Development",
+      "topic": "Resources",
+      "keywords": "resource,natural,human,renewable,non-renewable,soil,land,conservation,sustainable development,development"
+    },
+    {
+      "class_level": 10,
+      "subject": "Social Science",
+      "chapter": "Power Sharing",
+      "topic": "Power Sharing",
+      "keywords": "power sharing,belgium,sri lanka,federal,unitary,community government,democracy,majority,minority,accommodation"
+    },
+    {
+      "class_level": 10,
+      "subject": "Social Science",
+      "chapter": "Development",
+      "topic": "Economic Development",
+      "keywords": "development,income,HDI,per capita,GDP,developed,developing,public facility,sustainability,BMI,infant mortality,literacy"
+    }
+  ]
+}
